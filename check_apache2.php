@@ -60,4 +60,5 @@ $def[2] .= "LINE2:bytepsec#E80C3E:\"Byte/sec\\t\\t \" " ;
 $def[2] .= "GPRINT:bytepsec:LAST:\"%6.0lf\\t\" " ;
 $def[2] .= "GPRINT:bytepsec:AVERAGE:\" %6.0lf\\t\" " ;
 $def[2] .= "GPRINT:bytepsec:MAX:\" %6.0lf\\n\" " ;
+
 ?>
